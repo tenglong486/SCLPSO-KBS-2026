@@ -1,4 +1,4 @@
-# SCLPSO-KBS-2026
+# SCLPSO
 Code and data files for the paper "Stabilized Comprehensive Learning Particle Swarm Optimization for Benchmark Optimization and Urban Air-Quality Model Tuning".
 # SCLPSO Code and Data
 
